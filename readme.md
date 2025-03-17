@@ -1,7 +1,11 @@
 # Virtual element method (VEM) for 2D linear elasticity
 Matlab codes for virtual element method
 
-# You can find the code at www.vemhub.com
+# 
+You can find the code at www.vemhub.com
+
+Basic principle is given in Basic theory.pdf
+
 
 
 ## Features:

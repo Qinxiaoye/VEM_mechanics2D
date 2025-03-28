@@ -5,6 +5,7 @@
 % Institute of Continuum Mechanics, Leibniz Universität Hannover
 
 % reference: https://www.sciencedirect.com/science/article/pii/S0045782519301215
+%            https://github.com/Terenceyuyue/mVEM
 
 clear;
 load("cook.mat"); % you can generate mesh by your self

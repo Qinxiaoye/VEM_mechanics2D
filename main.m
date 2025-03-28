@@ -1,5 +1,5 @@
 % Copyright:
-% Bingbing Xu, Peter Wriggers
+% Bingbing Xu
 % Contact:
 % xubingbingdut@foxmail.com, bingbing.xu@ikm.uni-hannover.de
 % Institute of Continuum Mechanics, Leibniz Universität Hannover
